@@ -7,7 +7,7 @@ A student from NCKU
 
 I am a sophomore majoring in psychology.
 
-![image](https://github.com/minmochang/minmochang.github.io/blob/main/image.png)       
+![image](https://github.com/minmochang/minmochang.github.io/blob/main/image.png?raw=true)       
 
 
 
