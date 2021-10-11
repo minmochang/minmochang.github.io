@@ -3,14 +3,9 @@
 
 
 ## About me ⋯⋯
-ˋˋˋ{r}
-name <- "張晴閔 Ching-Min Chang"
-birthday <- as.Date("2000-12-27")
-Age <- 20
-ˋˋˋ
-姓名：ˋr nameˋ
-生日：ˋr birthdayˋ
-年齡：ˋr Ageˋ
+姓名：張晴閔 Ching-Min Chang
+生日：2000-12-27
+年齡：20
 ![image](https://github.com/minmochang/minmochang.github.io/blob/main/image.png)       
 
 
