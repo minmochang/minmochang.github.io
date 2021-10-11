@@ -13,7 +13,7 @@ I'm a sophomore majoring in psychology.
 
 年齡：20
 
-Email：minmochang@gmail.com
+Email：(minmochang@gmail.com)
 
 <img src="https://github.com/minmochang/minmochang.github.io/blob/main/image.png?raw=true"> 
 
