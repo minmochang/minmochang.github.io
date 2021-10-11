@@ -1,4 +1,4 @@
-# Welcome to my website ٩(●˙▿˙●)۶…⋆ฺ  
+# Welcome to my website ٩(●˙▿˙●)۶ 
 
 ## About me ⋯⋯
 ## Hi! I'm Daphne,
