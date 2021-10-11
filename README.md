@@ -1,7 +1,7 @@
 # Welcome to my website ٩(●˙▿˙●)۶ 
 
 ## About me ⋯⋯
-**Hi! I'm Ching-Min Chang**
+**Hi! I'm Ching-Min Chang.**
 
 <img src="https://github.com/minmochang/minmochang.github.io/blob/main/image.png?raw=true">
 
