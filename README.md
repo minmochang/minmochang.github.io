@@ -3,7 +3,7 @@
 
 
 ## About me ⋯⋯
-![image](https://github.com/minmochang/minmochang.github.io/blob/main/%E5%80%8B%E4%BA%BA%E7%85%A7.jpg)
+![image](https://github.com/minmochang/minmochang.github.io/blob/main/image.png)
 
 
 ```markdown
