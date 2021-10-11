@@ -14,6 +14,8 @@ I'm a sophomore majoring in psychology.
 
 年齡：20
 
+就讀學校：國立成功大學 心理學系
+
 Email：minmochang@gmail.com
 
 
