@@ -4,7 +4,9 @@
 
 ## About me ⋯⋯
 姓名：張晴閔 Ching-Min Chang
+
 生日：2000-12-27
+
 年齡：20
 ![image](https://github.com/minmochang/minmochang.github.io/blob/main/image.png)       
 
